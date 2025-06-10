@@ -1,0 +1,1941 @@
+{
+  "Items": [
+    {
+      "_id": "67e802f32285244b663c2b8b",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Ras Malai",
+      "img": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/moumita.malla-gmail.com/traditional_rasmalai_recipe.jpg",
+      "options": [
+        {
+          "One Peice": "35",
+          "10 Peice": "350"
+        }
+      ],
+      "description": "Ras Malai is a delicious Indian dessert made of soft paneer dumplings soaked in sweet, flavored milk with cardamom and saffron."
+    },
+    {
+      "_id": "67e802f32285244b663c2b8c",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Gulkand Barfi ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ahQNkJSq-5685Xfdq4ZuU9W_kIowrCmY5A&s",
+      "options": [
+        {
+          "half": "250",
+          "full": "500",
+          "Quater": "125"
+        }
+      ],
+      "description": "Variety Sweets' Gulkand Barfi is a rich, flavorful dessert made with gulkand (rose petal jam), milk, and dry fruits, offering a delightful taste."
+    },
+    {
+      "_id": "67e802f32285244b663c2b8e",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Cham Cham",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQScAOi8AIB4IBrMW4abYXYQ91QMcVwCTG46w&s",
+      "options": [
+        {
+          "half": "220",
+          "full": "440",
+          "Quater": "110"
+        }
+      ],
+      "description": "Variety Sweets Cham Cham is a soft, spongy Bengali dessert soaked in sugar syrup, enriched with saffron, cardamom, and nuts."
+    },
+    {
+      "_id": "67e802f32285244b663c2b8f",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Doda Barfi",
+      "img": "https://5.imimg.com/data5/SELLER/Default/2023/11/359640762/VS/IU/QF/199770925/doda-barfi-sweets.jpeg",
+      "options": [
+        {
+          "half": "250",
+          "full": "500",
+          "Quater": "125"
+        }
+      ],
+      "description": "Variety Sweets' Doda Barfi is a rich, grainy Punjabi sweet made from reduced milk, ghee, sugar, and crunchy nuts, offering a delightful taste."
+    },
+    {
+      "_id": "67e802f32285244b663c2b90",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Pista Barfi ",
+      "img": "data:image/jpeg;base64,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",
+      "options": [
+        {
+          "half": "220",
+          "full": "440",
+          "Quater": "110"
+        }
+      ],
+      "description": "Variety Sweets' Pista Barfi is a rich, creamy sweet made with pistachios, milk, and sugar, offering a delicious nutty flavor."
+    },
+    {
+      "_id": "67e802f32285244b663c2b91",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "White Chena",
+      "img": "https://bannusweets.com/wp-content/uploads/2024/01/39-600x600.webp",
+      "options": [
+        {
+          "half": "200",
+          "full": "400",
+          "Quater": "100"
+        }
+      ],
+      "description": "Variety Sweets' White Chena is a soft, spongy, and mildly sweet delicacy made from fresh chhena (paneer), offering a rich, milky taste."
+    },
+    {
+      "_id": "67e802f32285244b663c2b92",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Gujia",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP_vTXim8wgvZlByWDZoBzwLxnfpXxEspQSg&s",
+      "options": [
+        {
+          "half": "200",
+          "full": "400",
+          "Quater": "100"
+        }
+      ],
+      "description": "Variety Sweets' Gujia is a crispy, golden pastry filled with a rich mixture of khoya, dry fruits, and sugar, offering a delightful festive treat."
+    },
+    {
+      "_id": "67e802f32285244b663c2b93",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Moti Pak",
+      "img": "https://srigangavilas.com/cdn/shop/files/Untitleddesign-2024-03-07T114055.861_1200x1200.jpg?v=1709895667",
+      "options": [
+        {
+          "half": "250",
+          "full": "500",
+          "Quater": "125"
+        }
+      ],
+      "description": "Variety Sweets' Moti Pak is a rich, melt-in-the-mouth sweet made from gram flour, ghee, and sugar, infused with aromatic cardamom."
+    },
+    {
+      "_id": "67e802f32285244b663c2b94",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Kalakand",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJcFZhij78adjtdkLjlNGhUJ_4Qh7H9_tQ1Q&s",
+      "options": [
+        {
+          "half": "250",
+          "full": "500",
+          "Quater": "125"
+        }
+      ],
+      "description": "Variety Sweets' Kalakand is a soft, grainy, and delicious sweet made from milk and sugar, infused with cardamom for rich flavor."
+    },
+    {
+      "_id": "67e802f32285244b663c2b95",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Gulkand Barfi",
+      "img": "https://www.ndtv.com/cooks/images/lauki%20kalakand%20barfi.jpg",
+      "options": [
+        {
+          "Half": "250",
+          "Full": "500",
+          "Quater": "125"
+        }
+      ],
+      "description": "Variety Sweets' Gulkand Barfi is a rich, aromatic sweet made with khoya and infused with rose-flavored Gulkand, offering a delightful taste."
+    },
+    {
+      "_id": "67e802f32285244b663c2b96",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Chena Toast",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpTUsLz64eK0ehqlN4thsocISwiW-MbvkVPQ&s",
+      "options": [
+        {
+          "Half": "250",
+          "Full": "500",
+          "Quater": "125"
+        }
+      ],
+      "description": "Variety Sweets' Chena Toast is a delicious Bengali dessert made from soft chena (paneer), lightly sweetened and topped with rich syrup."
+    },
+    {
+      "_id": "67e802f32285244b663c2b97",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Rabdi",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbulp6St6yDfrwapvG4ldX0JeIXtXHwfjsrA&s",
+      "options": [
+        {
+          "One": "50",
+          "Two": "100",
+          "Three": "150"
+        }
+      ],
+      "description": "Variety Sweets' Rabdi is a rich, creamy dessert made by slow-cooking milk until thickened, flavored with cardamom, saffron, and nuts."
+    },
+    {
+      "_id": "67e802f32285244b663c2b99",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Fruit Barfi",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqmn4YbTsGWFxCqfWdu5agS7Yj5K8E2lvy2g&s",
+      "options": [
+        {
+          "Half": "250",
+          "Full": "500",
+          "Quater": "125"
+        }
+      ],
+      "description": "Fruit Barfi at Variety Sweets is a delightful fusion of fresh fruits, mawa, and nuts, offering a naturally sweet and rich flavor."
+    },
+    {
+      "_id": "67e802f32285244b663c2b9a",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Mango Mzza",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh_JGnpakXByrxbvnTtMntvWH5RNV0PKYbg&s",
+      "options": [
+        {
+          "Half": "350",
+          "Full": "700",
+          "Quater": "175"
+        }
+      ],
+      "description": "Mango Maza at Variety Sweets is a luscious mango-infused delight, blending rich flavors with a creamy texture for ultimate indulgence.."
+    },
+    {
+      "_id": "67e802f32285244b663c2b9b",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Anjeer Roll",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNiJbgy3EAjlnKsCbt2TX82WMDRuWt96_D7Q&s",
+      "options": [
+        {
+          "Half": "550",
+          "Full": "1100",
+          "Quater": "275"
+        }
+      ],
+      "description": "Anjeer Roll at Variety Sweets is a nutritious delight made with figs, nuts, and aromatic spices, offering a rich and wholesome taste.."
+    },
+    {
+      "_id": "67e802f32285244b663c2b9c",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Kaju Katli",
+      "img": "https://www.parsidairyfarm.com/cdn/shop/files/KajuKatli.jpg?v=1699528323",
+      "options": [
+        {
+          "Half": "550",
+          "Full": "1100",
+          "Quater": "275"
+        }
+      ],
+      "description": "Kaju Katli at Variety Sweets is a classic delicacy made with premium cashews, sugar, and saffron, offering a rich, melt-in-mouth experience."
+    },
+    {
+      "_id": "67e802f32285244b663c2b9d",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Bal Mithai",
+      "img": "https://m.media-amazon.com/images/I/71Kv9DutGVL._AC_UF1000,1000_QL80_.jpg",
+      "options": [
+        {
+          "Half": "200",
+          "Full": "400",
+          "Quater": "100"
+        }
+      ],
+      "description": "Bal Mithai at Variety Sweets is a traditional Kumaoni delight made with roasted khoya, coated in sugar balls, offering a rich caramelized taste."
+    },
+    {
+      "_id": "67e802f32285244b663c2b9e",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Aam Papar Roll",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCk4QbTHi2sjH0KLXIZ-lJvfiyAdDbPqYqWQ&s",
+      "options": [
+        {
+          "Half": "350",
+          "Full": "700",
+          "Quater": "175"
+        }
+      ],
+      "description": "Aam Paper Roll at Variety Sweets is a delicious mango treat, made from sun-dried mango pulp, offering a sweet and tangy flavor."
+    },
+    {
+      "_id": "67e802f32285244b663c2b9f",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Dry Fruit Laddu",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWgxdXWII6MkkOdG_mr8vdhmJFQY5Edn9LtA&s",
+      "options": [
+        {
+          "Half": "550",
+          "Full": "1100",
+          "Quater": "275"
+        }
+      ],
+      "description": "Dry Fruit Laddu at Variety Sweets is a nutritious delight, packed with almonds, cashews, pistachios, and dates, offering a rich and healthy taste."
+    },
+    {
+      "_id": "67e802f32285244b663c2ba0",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Long Lata",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7AWrBHDaGEa__kCL4oAqGiU0v5WM-jymGnQ&s",
+      "options": [
+        {
+          "Half": "170",
+          "Full": "340",
+          "Quater": "85"
+        }
+      ],
+      "description": "Variety Long Lata is a crispy, golden sweet filled with rich khoya and dry fruits, soaked in syrup for perfect sweetness."
+    },
+    {
+      "_id": "67e802f32285244b663c2ba1",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Coconut Burfi",
+      "img": "https://www.yummytummyaarthi.com/wp-content/uploads/2013/07/4-3-1024x682.jpg",
+      "options": [
+        {
+          "Half": "160",
+          "Full": "320",
+          "Quater": "80"
+        }
+      ],
+      "description": "Coconut Burfi is a rich, aromatic sweet treat made with grated coconut and condensed milk, offering a perfect blend of sweetness and texture."
+    },
+    {
+      "_id": "67e802f32285244b663c2ba2",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Peda",
+      "img": "https://nestle.fitterfly.in/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmtwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--004f861f4d7d4960cde25901cf0bec1182d5a9f5/19062_Caramelized_Jaggery_Peda.webp",
+      "options": [
+        {
+          "Half": "220",
+          "Full": "440",
+          "Quater": "110"
+        }
+      ],
+      "description": "Variety Peda is a soft, milky sweet delicacy made with condensed milk, sugar, and cardamom, offering a rich and traditional taste."
+    },
+    {
+      "_id": "67e802f32285244b663c2ba3",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Besan Barfi",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxW8LawCvB-w7XG1uxJJSrNqdV8nBB_4Sz3Q&s",
+      "options": [
+        {
+          "Half": "160",
+          "Full": "320",
+          "Quater": "80"
+        }
+      ],
+      "description": "Variety Besan Barfi is a rich, melt-in-mouth sweet made with roasted gram flour, ghee, and sugar, infused with cardamom flavor."
+    },
+    {
+      "_id": "67e802f32285244b663c2ba4",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Mysore PAK",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzVIq-EQYYABQOGlWRHC6uM4pY0ZYQpdMlJw&s",
+      "options": [
+        {
+          "Half": "150",
+          "Full": "300",
+          "Quater": "75"
+        }
+      ],
+      "description": "Variety Mysore Pak is a soft, rich, and aromatic sweet made with gram flour, ghee, and sugar, offering an authentic traditional taste."
+    },
+    {
+      "_id": "67e802f32285244b663c2ba5",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Balu Sahi",
+      "img": "https://www.shutterstock.com/image-photo/indian-mithai-balushahi-called-balsaahi-600nw-2385398553.jpg",
+      "options": [
+        {
+          "Half": "150",
+          "Full": "300",
+          "Quater": "75"
+        }
+      ],
+      "description": "Variety Balu Shahi is a crispy, flaky, and sugar-glazed Indian sweet, offering a rich and traditional taste with a melt-in-mouth texture."
+    },
+    {
+      "_id": "67e802f32285244b663c2ba6",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Milk Chocklate",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9qEE5WRbG9a0w_nykZs_E_IPlfQfxX8P2tg&s",
+      "options": [
+        {
+          "Half": "300",
+          "Full": "600",
+          "Quater": "150"
+        }
+      ],
+      "description": "Variety Milk Chocolate is a rich, creamy delight made from the finest cocoa and milk, offering a smooth, irresistible sweetness."
+    },
+    {
+      "_id": "67e802f32285244b663c2ba7",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Soan Papdi",
+      "img": "https://bgnaidusweets.com/cdn/shop/files/buy-Ghee-Banaras-Soan-Papdi-online-from-BG-Naidu-Sweets.jpg?v=1695714804",
+      "options": [
+        {
+          "Half": "160",
+          "Full": "320",
+          "Quater": "80"
+        }
+      ],
+      "description": "Variety Soan Papdi is a light, flaky, and melt-in-the-mouth sweet made with gram flour, ghee, and sugar, offering a delightful crunch."
+    },
+    {
+      "_id": "67e802f32285244b663c2ba8",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Milk PAK",
+      "img": "https://bandarmithai.in/cdn/shop/products/milk_mysorepak.jpg?v=1617381204",
+      "options": [
+        {
+          "Half": "300",
+          "Full": "600",
+          "Quater": "150"
+        }
+      ],
+      "description": "Variety Milk Pak is a rich, creamy sweet made from thickened milk and sugar, offering a smooth texture and indulgent taste."
+    },
+    {
+      "_id": "67e802f32285244b663c2ba9",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Moti PAK",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTwm_UF4-FN7YR9wtQa4Q8R58nRepDwu2KEA&s",
+      "options": [
+        {
+          "Half": "250",
+          "Full": "500",
+          "Quater": "125"
+        }
+      ],
+      "description": "Variety Moti Pak is a rich, melt-in-the-mouth sweet made from gram flour, ghee, and sugar, offering a delightful, aromatic flavor."
+    },
+    {
+      "_id": "67e802f32285244b663c2baa",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Kesar Roll",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRERDz1gUa0JmllA5eCn4kw6Y1dyYZTYx_vtQ&s",
+      "options": [
+        {
+          "Half": "250",
+          "Full": "500",
+          "Quater": "125"
+        }
+      ],
+      "description": "Variety Kesar Roll is a luxurious saffron-infused sweet, crafted with rich mawa, nuts, and aromatic flavors for an indulgent experience."
+    },
+    {
+      "_id": "67e802f32285244b663c2bab",
+      "CategoryName": "VARIETY SWEETS",
+      "name": "Balu Sahi",
+      "img": "https://www.shutterstock.com/image-photo/indian-mithai-balushahi-called-balsaahi-600nw-2385398553.jpg",
+      "options": [
+        {
+          "Half": "150",
+          "Full": "300",
+          "Quater": "75"
+        }
+      ],
+      "description": "Variety Balu Sahi is a crispy, golden-brown sweet with a soft, syrup-filled center, offering a rich and traditional taste."
+    },
+    {
+      "_id": "67e802f32285244b663c2bac",
+      "CategoryName": "STARTER",
+      "name": "Aloo paratha",
+      "img": "https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/submissions/recipe/2000832843/Ty6HjraTQqXcqJfX6mNK_Aloo%20paratha.jpg",
+      "options": [
+        {
+          "One": "80"
+        }
+      ],
+      "description": "Crispy, flavorful, stuffed with spiced potatoes, served hot with butter, chutney, and curd—perfect breakfast delight! 😋"
+    },
+    {
+      "_id": "67e802f32285244b663c2bad",
+      "CategoryName": "STARTER",
+      "name": "Aloo Pyaz Paratha ",
+      "img": "https://madhurasrecipe.com/wp-content/uploads/2020/10/Dhaba-Style-Aloo-Paratha-feature-585x433.jpg",
+      "options": [
+        {
+          "One": "90"
+        }
+      ],
+      "description": "Crispy, flavorful, stuffed with spiced potatoes, served hot with butter, chutney, and curd—perfect breakfast delight! 😋"
+    },
+    {
+      "_id": "67e802f32285244b663c2bae",
+      "CategoryName": "STARTER",
+      "name": "Gobhi Paratha ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL2IY13ZPAPe1OeQ5BL9KWLCjKYbWNAGipww&s",
+      "options": [
+        {
+          "One": "90"
+        }
+      ],
+      "description": "Crispy, flavorful, stuffed with spiced potatoes, served hot with butter, chutney, and curd—perfect breakfast delight! 😋"
+    },
+    {
+      "_id": "67e802f32285244b663c2baf",
+      "CategoryName": "STARTER",
+      "name": "Mix Paratha ",
+      "img": "https://i.redd.it/f494dszq4pje1.jpeg",
+      "options": [
+        {
+          "One": "120"
+        }
+      ],
+      "description": "Crispy, flavorful, stuffed with spiced potatoes, served hot with butter, chutney, and curd—perfect breakfast delight! 😋"
+    },
+    {
+      "_id": "67e802f32285244b663c2bb0",
+      "CategoryName": "STARTER",
+      "name": "Paneer Paratha ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5HjIS8wCWL1H7n7shZmCn03v4uFtmSlWrIg&s",
+      "options": [
+        {
+          "One": "150"
+        }
+      ],
+      "description": "Crispy, flavorful, stuffed with spiced potatoes, served hot with butter, chutney, and curd—perfect breakfast delight! 😋"
+    },
+    {
+      "_id": "67e802f32285244b663c2bb1",
+      "CategoryName": "STARTER",
+      "name": "Egg  Paratha ",
+      "img": "https://peekncooksa.blob.core.windows.net/index-recipe/spicy_egg_paratha.jpg",
+      "options": [
+        {
+          "One": "140"
+        }
+      ],
+      "description": "Crispy, flavorful, stuffed with spiced potatoes, served hot with butter, chutney, and curd—perfect breakfast delight! 😋"
+    },
+    {
+      "_id": "67e802f32285244b663c2bb2",
+      "CategoryName": "STARTER",
+      "name": "Aloo Puri ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTciROoxgDM4-AhOHclV6jOTFZNOxp7zzw0eQ&s",
+      "options": [
+        {
+          "One": "140"
+        }
+      ],
+      "description": "Fluffy puris with spicy potato curry, a delicious, crispy, and flavorful Indian breakfast favorite. 😋🔥"
+    },
+    {
+      "_id": "67e802f32285244b663c2bb3",
+      "CategoryName": "STARTER",
+      "name": "Butter Toast ",
+      "img": "https://uzhavarbumi.s3.ap-south-1.amazonaws.com/uploads/U9jed0ejdd886z9xT4dGnVU77j3eENNRFmZW2uLW.jpg",
+      "options": [
+        {
+          "One": "80"
+        }
+      ],
+      "description": "Crispy golden toast with melted butter, simple yet delicious, perfect with tea or coffee. 😋☕"
+    },
+    {
+      "_id": "67e802f32285244b663c2bb4",
+      "CategoryName": "STARTER",
+      "name": "Plain Omelette ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCPZshFquWa0ftgamJXhHPIq1WVvrr0OEq8Q&s",
+      "options": [
+        {
+          "One": "120"
+        }
+      ],
+      "description": "Fluffy and light, a simple omelet made with eggs, salt, and pepper—quick, nutritious, and tasty! 🍳😋"
+    },
+    {
+      "_id": "67e802f32285244b663c2bb5",
+      "CategoryName": "STARTER",
+      "name": "Masala Omelette ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCPZshFquWa0ftgamJXhHPIq1WVvrr0OEq8Q&s",
+      "options": [
+        {
+          "One": "140"
+        }
+      ],
+      "description": "Spicy and flavorful omelet with onions, tomatoes, chilies, and aromatic spices—perfect with toast or paratha! 🍳🔥😋"
+    },
+    {
+      "_id": "67e802f32285244b663c2bb6",
+      "CategoryName": "STARTER",
+      "name": " Omelette Slice ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCPZshFquWa0ftgamJXhHPIq1WVvrr0OEq8Q&s",
+      "options": [
+        {
+          "One": "160"
+        }
+      ],
+      "description": "Spicy and flavorful omelet with onions, tomatoes, chilies, and aromatic spices—perfect with toast or paratha! 🍳🔥😋"
+    },
+    {
+      "_id": "67e802f32285244b663c2bb7",
+      "CategoryName": "STARTER",
+      "name": " Chole Bhature ",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Chole_Bhature_At_Local_Street.jpg/1200px-Chole_Bhature_At_Local_Street.jpg",
+      "options": [
+        {
+          "One": "120"
+        }
+      ],
+      "description": "Fluffydeep - fried bhature served with spicy tangy chole— an irresistible North Indian delicacy!😋🔥"
+    },
+    {
+      "_id": "67e802f32285244b663c2bb8",
+      "CategoryName": "DISH",
+      "name": " Veg Manchurain",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxiz3a8sK2uSXT7ZNzPUmVrUmAK35A7d6Pjw&s",
+      "options": [
+        {
+          "Dry": "280",
+          "Gravy": "300"
+        }
+      ],
+      "description": "Veg Manchurian is a popular Indo-Chinese dish made of deep-fried vegetable balls tossed in a spicy, tangy, and savory sauce, served dry or with gravy."
+    },
+    {
+      "_id": "67e802f32285244b663c2bb9",
+      "CategoryName": "DISH",
+      "name": " Paneer Manchurain",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS-UcKFEZLe0b_XppOiErmwvFeKYZ6LCzIsg&s",
+      "options": [
+        {
+          "Dry": "220",
+          "Gravy": "340"
+        }
+      ],
+      "description": "Paneer Manchurian is a delicious Indo-Chinese dish featuring crispy fried paneer cubes tossed in a spicy, tangy, and flavorful Manchurian sauce, served dry or with gravy."
+    },
+    {
+      "_id": "67e802f32285244b663c2bba",
+      "CategoryName": "DISH",
+      "name": "Chilli Paneer",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLL7ELazVbZPsu6A-qDZrMCtq9h6ZR8iMGMA&s",
+      "options": [
+        {
+          "Dry": "320",
+          "Gravy": "340"
+        }
+      ],
+      "description": "Paneer Manchurian is a delicious Indo-Chinese dish featuring crispy fried paneer cubes tossed in a spicy, tangy, and flavorful Manchurian sauce, served dry or with gravy."
+    },
+    {
+      "_id": "67e802f32285244b663c2bbb",
+      "CategoryName": "DISH",
+      "name": "Gobhi Manchurian",
+      "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/gobi-manchurian-cauliflower-manchurian.jpg",
+      "options": [
+        {
+          "Dry": "280",
+          "Gravy": "300"
+        }
+      ],
+      "description": "Gobhi Manchurian is a delicious Indo-Chinese dish featuring crispy fried paneer cubes tossed in a spicy, tangy, and flavorful Manchurian sauce, served dry or with gravy."
+    },
+    {
+      "_id": "67e802f32285244b663c2bbc",
+      "CategoryName": "DISH",
+      "name": "Chilli Mushroom",
+      "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2012/12/chilli-mushroom-stir-fry-500x375.jpg",
+      "options": [
+        {
+          "Dry": "320",
+          "Gravy": "340"
+        }
+      ],
+      "description": "Chilli Mushroom is a delicious Indo-Chinese dish featuring crispy fried paneer cubes tossed in a spicy, tangy, and flavorful Manchurian sauce, served dry or with gravy."
+    },
+    {
+      "_id": "67e802f32285244b663c2bbd",
+      "CategoryName": "DISH",
+      "name": "Chilli Chicken",
+      "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/07/chilli-chicken-recipe-500x500.jpg",
+      "options": [
+        {
+          "Dry": "400",
+          "Gravy": "440"
+        }
+      ],
+      "description": "Chilli Chicken is a popular Indo-Chinese dish featuring crispy fried chicken tossed in a spicy, tangy, and flavorful sauce with onions, bell peppers, and aromatic spices."
+    },
+    {
+      "_id": "67e802f32285244b663c2bbe",
+      "CategoryName": "DISH",
+      "name": "Chicken Manchurian",
+      "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/07/chilli-chicken-recipe-500x500.jpg",
+      "options": [
+        {
+          "Dry": "400",
+          "Gravy": "440"
+        }
+      ],
+      "description": " Chicken Manchurian is a popular Indo-Chinese dish featuring crispy fried chicken tossed in a spicy, tangy, and flavorful sauce with onions, bell peppers, and aromatic spices."
+    },
+    {
+      "_id": "67e802f32285244b663c2bbf",
+      "CategoryName": "DISH",
+      "name": "Chilli Garlik Fish",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkmePCsGmBbdMEaw1hrtbUPbXOeVJhsEAVSQ&s",
+      "options": [
+        {
+          "Dry": "400",
+          "Gravy": "440"
+        }
+      ],
+      "description": " Chilli Garlic Fish is a spicy, flavorful Indo-Chinese dish featuring crispy fried fish tossed in a tangy, garlicky sauce with chilies, bell peppers, and aromatic spices.."
+    },
+    {
+      "_id": "67e802f32285244b663c2bc0",
+      "CategoryName": "DISH",
+      "name": "Fish Manchurian",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpn8sM3zlZpbcLKh-LTvQu-sjbAOfG2CT-5A&s",
+      "options": [
+        {
+          "Dry": "400",
+          "Gravy": "440"
+        }
+      ],
+      "description": "  Fish Manchurian is a spicy, flavorful Indo-Chinese dish featuring crispy fried fish tossed in a tangy, garlicky sauce with chilies, bell peppers, and aromatic spices.."
+    },
+    {
+      "_id": "67e802f32285244b663c2bc1",
+      "CategoryName": "DISH",
+      "name": "Chicken Schezwan",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPC0w5HARTsMboSG6WlI_xW0qyQHb8OpZc9w&s",
+      "options": [
+        {
+          "Dry": "400",
+          "Gravy": "440"
+        }
+      ],
+      "description": "  Chicken Schezwan is a spicy, flavorful Indo-Chinese dish featuring crispy fried fish tossed in a tangy, garlicky sauce with chilies, bell peppers, and aromatic spices.."
+    },
+    {
+      "_id": "67e802f32285244b663c2bc2",
+      "CategoryName": "DISH",
+      "name": "Lemon Chicken",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgHjk9g39sQoQQli9piLpzme8JHe-v0qxcbg&s",
+      "options": [
+        {
+          "Dry": "400",
+          "Gravy": "440"
+        }
+      ],
+      "description": "  Lemon Chicken is a spicy, flavorful Indo-Chinese dish featuring crispy fried fish tossed in a tangy, garlicky sauce with chilies, bell peppers, and aromatic spices.."
+    },
+    {
+      "_id": "67e802f32285244b663c2bc3",
+      "CategoryName": "DISH",
+      "name": "Wings on Fire ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKWBi5Qh_Zl2aVNWCEeZhnzTK3o1HJ5LPH_g&s",
+      "options": [
+        {
+          "Dry": "400",
+          "Gravy": "440"
+        }
+      ],
+      "description": "  Wings on Fire are spicy, crispy chicken wings coated in a fiery hot sauce, infused with garlic, chili, and smoky flavors, delivering an intense, mouthwatering kick. 🔥🍗"
+    },
+    {
+      "_id": "67e802f32285244b663c2bc4",
+      "CategoryName": "DISH",
+      "name": "Lemon Chicken Wings ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ-9l2NYSQqQVaAaz8Powg-yBpmAAMwr-8RA&s",
+      "options": [
+        {
+          "Dry": "400",
+          "Gravy": "440"
+        }
+      ],
+      "description": "  Lemon Chicken Wings are spicy, crispy chicken wings coated in a fiery hot sauce, infused with garlic, chili, and smoky flavors, delivering an intense, mouthwatering kick. 🔥🍗"
+    },
+    {
+      "_id": "67e802f32285244b663c2bc5",
+      "CategoryName": "DISH",
+      "name": "Lemon Chicken Wings ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ-9l2NYSQqQVaAaz8Powg-yBpmAAMwr-8RA&s",
+      "options": [
+        {
+          "Dry": "400",
+          "Gravy": "440"
+        }
+      ],
+      "description": "  Lemon Chicken Wings are spicy, crispy chicken wings coated in a fiery hot sauce, infused with garlic, chili, and smoky flavors, delivering an intense, mouthwatering kick. 🔥🍗"
+    },
+    {
+      "_id": "67e802f32285244b663c2bc6",
+      "CategoryName": "DISH",
+      "name": "Crispy Chicken Wings ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJRN33zS8XQu8fbQqoJIF2u3y0qHoNMvSucg&s",
+      "options": [
+        {
+          "Dry": "400",
+          "Gravy": "440"
+        }
+      ],
+      "description": " Crispy chicken wings are golden-brown, crunchy, and flavorful, deep-fried or baked to perfection, often tossed in sauces like buffalo, BBQ, or garlic parmesan. 🍗🔥"
+    },
+    {
+      "_id": "67e802f32285244b663c2bc7",
+      "CategoryName": "DISH",
+      "name": "Garlic Chicken Wings ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJRN33zS8XQu8fbQqoJIF2u3y0qHoNMvSucg&s",
+      "options": [
+        {
+          "Dry": "400",
+          "Gravy": "440"
+        }
+      ],
+      "description": " Garlic chicken wings are golden-brown, crunchy, and flavorful, deep-fried or baked to perfection, often tossed in sauces like buffalo, BBQ, or garlic parmesan. 🍗🔥"
+    },
+    {
+      "_id": "67e802f32285244b663c2bc8",
+      "CategoryName": "DISH",
+      "name": "Jeera Aloo ",
+      "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/04/jeera-aloo-recipe.jpg",
+      "options": [
+        {
+          "One": "180"
+        }
+      ],
+      "description": " Jeera Aloo is a simple yet flavorful Indian dish made with potatoes sautéed in cumin seeds, spices, and herbs, offering a crispy, aromatic taste. 🥔✨"
+    },
+    {
+      "_id": "67e802f32285244b663c2bc9",
+      "CategoryName": "DISH",
+      "name": "Kumaoni Aloo ",
+      "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/04/jeera-aloo-recipe.jpg",
+      "options": [
+        {
+          "One": "190"
+        }
+      ],
+      "description": " Kumaoni Aloo is a simple yet flavorful Indian dish made with potatoes sautéed in cumin seeds, spices, and herbs, offering a crispy, aromatic taste. 🥔✨"
+    },
+    {
+      "_id": "67e802f32285244b663c2bca",
+      "CategoryName": "DISH",
+      "name": "Gobhi Aloo ",
+      "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/04/jeera-aloo-recipe.jpg",
+      "options": [
+        {
+          "One": "220"
+        }
+      ],
+      "description": "Gobhi  Aloo is a simple yet flavorful Indian dish made with potatoes sautéed in cumin seeds, spices, and herbs, offering a crispy, aromatic taste. 🥔✨"
+    },
+    {
+      "_id": "67e802f32285244b663c2bcb",
+      "CategoryName": "DISH",
+      "name": "Matar Aloo ",
+      "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/04/jeera-aloo-recipe.jpg",
+      "options": [
+        {
+          "One": "200"
+        }
+      ],
+      "description": "Matar Aloo is a classic Indian curry made with potatoes and green peas cooked in a spiced tomato-based gravy, offering a delicious, comforting taste. 🍛✨"
+    },
+    {
+      "_id": "67e802f32285244b663c2bcc",
+      "CategoryName": "DISH",
+      "name": "Aloo Gobhi Matar ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNMYa-h50PFEXHfrupCZBy0btaOF57D84pYA&s",
+      "options": [
+        {
+          "One": "220"
+        }
+      ],
+      "description": "Aloo Gobhi Matar is a classic Indian curry made with potatoes and green peas cooked in a spiced tomato-based gravy, offering a delicious, comforting taste. 🍛✨"
+    },
+    {
+      "_id": "67e802f32285244b663c2bcd",
+      "CategoryName": "DISH",
+      "name": "Mix Veg",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-3y4-HwgiGakl8kxpffZ4_uK5zXw0IfkKw&s",
+      "options": [
+        {
+          "One": "220"
+        }
+      ],
+      "description": "Mix Veg is a colorful and nutritious dish made with a variety of vegetables like carrots, beans, peas, potatoes, and cauliflower, cooked with aromatic spices. 🥕🥔🥦"
+    },
+    {
+      "_id": "67e802f32285244b663c2bce",
+      "CategoryName": "DISH",
+      "name": "Dum Aloo Kashmiri",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvgdE8JBeHubz91ZyLeFbycXVKPvIk9K2Z8w&s",
+      "options": [
+        {
+          "One": "280"
+        }
+      ],
+      "description": "Dum Aloo Kashmiri is a rich and flavorful dish made with baby potatoes cooked in a creamy, spiced yogurt-based gravy, infused with Kashmiri red chili and aromatic spices. 🔥🥔"
+    },
+    {
+      "_id": "67e802f32285244b663c2bcf",
+      "CategoryName": "DISH",
+      "name": "Matar Mushroom",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-mzitXoDy8gCyRVwjUE2YZrOG0Z2hUnWtA&s",
+      "options": [
+        {
+          "One": "300"
+        }
+      ],
+      "description": "Matar Mushroom is a delicious North Indian curry made with mushrooms and green peas cooked in a spiced onion-tomato gravy, enriched with aromatic spices. 🍄🌿"
+    },
+    {
+      "_id": "67e802f32285244b663c2bd0",
+      "CategoryName": "DISH",
+      "name": "Mushroom Masala",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_U1ddGF-iX8QRXckds0SdVtxqeJsPswe7Q&s",
+      "options": [
+        {
+          "One": "300"
+        }
+      ],
+      "description": "Mushroom Masala is a delicious North Indian curry made with mushrooms and green peas cooked in a spiced onion-tomato gravy, enriched with aromatic spices. 🍄🌿"
+    },
+    {
+      "_id": "67e802f32285244b663c2bd1",
+      "CategoryName": "DISH",
+      "name": "Mushroom Do Pyaza",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbzJtQFOVFMsfD8EtUfe5gYlfCB84q67v2NQ&s",
+      "options": [
+        {
+          "One": "300"
+        }
+      ],
+      "description": "Mushroom Do Pyaza is a delicious North Indian curry made with mushrooms and green peas cooked in a spiced onion-tomato gravy, enriched with aromatic spices. 🍄🌿"
+    },
+    {
+      "_id": "67e802f32285244b663c2bd2",
+      "CategoryName": "DISH",
+      "name": "Variety Chana Masala",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQERBGpqEq9d8FpvLAOjPFVM1c_Njjp4scYxA&s",
+      "options": [
+        {
+          "One": "300"
+        }
+      ],
+      "description": "Variety Chana Masala is a flavorful dish made with different types of chickpeas cooked in a rich, spiced tomato-based gravy, infused with aromatic Indian spices. 🌶️🍛"
+    },
+    {
+      "_id": "67e802f32285244b663c2bd3",
+      "CategoryName": "DISH",
+      "name": "Kadhai Chaap",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4j9p-5oV6gFqpvMs44Wvv6IbQB-ylsRcR7Q&s",
+      "options": [
+        {
+          "One": "320"
+        }
+      ],
+      "description": "Kadhai Chaap  is a flavorful dish made with different types of chickpeas cooked in a rich, spiced tomato-based gravy, infused with aromatic Indian spices. 🌶️🍛"
+    },
+    {
+      "_id": "67e802f32285244b663c2bd4",
+      "CategoryName": "DISH",
+      "name": "Tawa Chaap",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVhDkQQOD4MiuO3fmrrcQj0jekjKSieX_vGQ&s",
+      "options": [
+        {
+          "One": "320"
+        }
+      ],
+      "description": "Tawa Chaap  is a flavorful dish made with different types of chickpeas cooked in a rich, spiced tomato-based gravy, infused with aromatic Indian spices. 🌶️🍛"
+    },
+    {
+      "_id": "67e802f32285244b663c2bd5",
+      "CategoryName": "DISH",
+      "name": "Paneer Butter Masala ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThdSYZeEehWJwyrB9_vChxLnlNzQDuSPDXRA&s",
+      "options": [
+        {
+          "One": "340"
+        }
+      ],
+      "description": "Paneer Butter Masala  is a flavorful dish made with different types of chickpeas cooked in a rich, spiced tomato-based gravy, infused with aromatic Indian spices. 🌶️🍛"
+    },
+    {
+      "_id": "67e802f32285244b663c2bd6",
+      "CategoryName": "DISH",
+      "name": "Paneer Tikka Butter Masala ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAvGwSsFVGvOJsVosO7yFJ5UFWnLd8eRhj6A&s",
+      "options": [
+        {
+          "One": "360"
+        }
+      ],
+      "description": "Paneer Tikka Butter Masala is a rich and creamy dish featuring grilled paneer tikka cooked in a luscious tomato-based butter gravy, flavored with aromatic spices. 🧀🍛🔥"
+    },
+    {
+      "_id": "67e802f32285244b663c2bd7",
+      "CategoryName": "DISH",
+      "name": " Lajwaab Paneer",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEwj7g5OxnmqAkuwLiDCgq4mw-Psot4DGmSw&s",
+      "options": [
+        {
+          "One": "320"
+        }
+      ],
+      "description": "Lazawab Paneer is a flavorful and creamy paneer dish cooked in a rich, spiced gravy with a perfect balance of tanginess and sweetness, offering a delightful taste. 🧀🔥🍛"
+    },
+    {
+      "_id": "67e802f32285244b663c2bd8",
+      "CategoryName": "DISH",
+      "name": " Paneer Bhujji",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMWNGkIARqNIFVegwK_MM2iY5bcnEHVrVxUQ&s",
+      "options": [
+        {
+          "One": "300"
+        }
+      ],
+      "description": " Paneer Bhujii is a flavorful and creamy paneer dish cooked in a rich, spiced gravy with a perfect balance of tanginess and sweetness, offering a delightful taste. 🧀🔥🍛"
+    },
+    {
+      "_id": "67e802f32285244b663c2bd9",
+      "CategoryName": "DISH",
+      "name": " Paneer Do Pyaza",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEytd-0qka0baKmMKawhzgGLdFqq9DngaBaw&s",
+      "options": [
+        {
+          "One": "320"
+        }
+      ],
+      "description": " Paneer Do Bhujii is a flavorful and creamy paneer dish cooked in a rich, spiced gravy with a perfect balance of tanginess and sweetness, offering a delightful taste. 🧀🔥🍛"
+    },
+    {
+      "_id": "67e802f32285244b663c2bda",
+      "CategoryName": "DISH",
+      "name": "Malai Kofta",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoCewxcFbEDTPzlQATAeq1wtTqs1v5ZidGdw&s",
+      "options": [
+        {
+          "One": "320"
+        }
+      ],
+      "description": " Malai Kofta is a rich and creamy North Indian dish featuring soft paneer and potato dumplings served in a luscious, mildly spiced tomato-based gravy. 🍛🧀✨"
+    },
+    {
+      "_id": "67e802f32285244b663c2bdb",
+      "CategoryName": "DISH",
+      "name": "Matar Paneer",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH8wfdomM0ZR3KpY9ntI_EVChBXssWORWTlg&s",
+      "options": [
+        {
+          "One": "320"
+        }
+      ],
+      "description": " Matar Paneer is a classic North Indian curry made with soft paneer cubes and green peas cooked in a flavorful, spiced tomato-based gravy. 🍛🧀🌿"
+    },
+    {
+      "_id": "67e802f32285244b663c2bdc",
+      "CategoryName": "DISH",
+      "name": "Kadhai Paneer",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY0Ct2x_5dfyqq43RqVUO-_s7yEhwr240liw&s",
+      "options": [
+        {
+          "One": "340"
+        }
+      ],
+      "description": " Kadhai Paneer is a classic North Indian curry made with soft paneer cubes and green peas cooked in a flavorful, spiced tomato-based gravy. 🍛🧀🌿"
+    },
+    {
+      "_id": "67e802f32285244b663c2bdd",
+      "CategoryName": "DISH",
+      "name": "Shahi Paneer",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY0Ct2x_5dfyqq43RqVUO-_s7yEhwr240liw&s",
+      "options": [
+        {
+          "One": "340"
+        }
+      ],
+      "description": "Shahi Paneer is a classic North Indian curry made with soft paneer cubes and green peas cooked in a flavorful, spiced tomato-based gravy. 🍛🧀🌿"
+    },
+    {
+      "_id": "67e802f32285244b663c2bde",
+      "CategoryName": "DISH",
+      "name": "Kali Mirch Paneer",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkj4p1XFCWRwbTSRu5D2cidWt4dvFd7a3I9g&s",
+      "options": [
+        {
+          "One": "340"
+        }
+      ],
+      "description": "Kali Mirch  Paneer is a classic North Indian curry made with soft paneer cubes and green peas cooked in a flavorful, spiced tomato-based gravy. 🍛🧀🌿"
+    },
+    {
+      "_id": "67e802f32285244b663c2bdf",
+      "CategoryName": "DISH",
+      "name": "Desi Kadhi ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgHWPvnSzDtghmmpexktglMoMhJA6JBLgl2A&s",
+      "options": [
+        {
+          "One": "160"
+        }
+      ],
+      "description": "Desi Kadhi is a traditional yogurt-based curry made with gram flour, spices, and tempered with mustard seeds and curry leaves, often served with rice. 🍛🔥"
+    },
+    {
+      "_id": "67e802f32285244b663c2be0",
+      "CategoryName": "DISH",
+      "name": "Yellow Dal ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgHWPvnSzDtghmmpexktglMoMhJA6JBLgl2A&s",
+      "options": [
+        {
+          "One": "180"
+        }
+      ],
+      "description": "Yellow Dalis a traditional yogurt-based curry made with gram flour, spices, and tempered with mustard seeds and curry leaves, often served with rice. 🍛🔥"
+    },
+    {
+      "_id": "67e802f32285244b663c2be1",
+      "CategoryName": "DISH",
+      "name": " Dal Handi ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyazg2CeXJ80yhMZyY6KXgST1-KJHlTcVXtQ&s",
+      "options": [
+        {
+          "One": "200"
+        }
+      ],
+      "description": "Dal Handi traditional yogurt-based curry made with gram flour, spices, and tempered with mustard seeds and curry leaves, often served with rice. 🍛🔥"
+    },
+    {
+      "_id": "67e802f32285244b663c2be2",
+      "CategoryName": "DISH",
+      "name": " Dal Fry Tadka ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkNpfrzkeJ_MeuIFwNPomOV0f-eK7D9xuhSQ&s",
+      "options": [
+        {
+          "One": "200"
+        }
+      ],
+      "description": "Dal Fry Tadka is a flavorful lentil dish made with toor or moong dal, cooked with onions, tomatoes, and aromatic spices, finished with a sizzling tempering of ghee, garlic, and red chilies. 🔥🍲"
+    },
+    {
+      "_id": "67e802f32285244b663c2be3",
+      "CategoryName": "DISH",
+      "name": " Dal Makhani ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_Yzhq6VznkiA-WeuP9lybRwDPsHH_hF6-A&s",
+      "options": [
+        {
+          "One": "220"
+        }
+      ],
+      "description": "Dal Makhni is a creamy and flavorful Punjabi dish made with black lentils (urad dal) and kidney beans (rajma), slow-cooked with butter, cream, and aromatic spices for a rich taste. 🍛🧈🔥"
+    },
+    {
+      "_id": "67e802f32285244b663c2be4",
+      "CategoryName": "DISH",
+      "name": " Egg Curry ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTsE8bULGcCMI5SmIPPJnG4PW59IiFyPa62g&s",
+      "options": [
+        {
+          "Half": "220",
+          "Full": "380"
+        }
+      ],
+      "description": "Egg curry is a flavorful dish made with boiled eggs simmered in a rich, spicy tomato-based gravy infused with onions, garlic, ginger, and aromatic spices. 🍛🥚🔥"
+    },
+    {
+      "_id": "67e802f32285244b663c2be5",
+      "CategoryName": "DISH",
+      "name": " Fish Curry ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTs4sN9H55qC9QdgmC_iomSM57GVyPkwC9wQ&s",
+      "options": [
+        {
+          "Half": "340",
+          "Full": "580"
+        }
+      ],
+      "description": "Fish curry is a delicious, spicy dish made with fresh fish simmered in a rich, flavorful gravy of tomatoes, onions, garlic, ginger, and aromatic spices. 🐟🍛🔥"
+    },
+    {
+      "_id": "67e802f32285244b663c2be6",
+      "CategoryName": "DISH",
+      "name": " Fish Butter Masala ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTs4sN9H55qC9QdgmC_iomSM57GVyPkwC9wQ&s",
+      "options": [
+        {
+          "Half": "340",
+          "Full": "600"
+        }
+      ],
+      "description": "Fish Butter Masala is a delicious, spicy dish made with fresh fish simmered in a rich, flavorful gravy of tomatoes, onions, garlic, ginger, and aromatic spices. 🐟🍛🔥"
+    },
+    {
+      "_id": "67e802f32285244b663c2be7",
+      "CategoryName": "DISH",
+      "name": "Chicken Curry",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_rfLKdqvmSoPjCPYX3XzfBBJzQnZXO0clsQ&s",
+      "options": [
+        {
+          "Half": "340",
+          "Full": "600"
+        }
+      ],
+      "description": "Chicken curry is a flavorful dish made with tender chicken simmered in a rich, spiced gravy of onions, tomatoes, garlic, ginger, and aromatic spices. 🍗🔥🍛"
+    },
+    {
+      "_id": "67e802f32285244b663c2be8",
+      "CategoryName": "DISH",
+      "name": "Butter Chicken",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_sZZjpyR1dUFAMRo5b7BzEIaPWLaDk0UUdA&s",
+      "options": [
+        {
+          "Half": "350",
+          "Full": "600"
+        }
+      ],
+      "description": "Butter chicken is a creamy, flavorful dish featuring tender chicken cooked in a rich tomato-based gravy with butter, cream, and aromatic spices. 🍗🔥🍛"
+    },
+    {
+      "_id": "67e802f32285244b663c2be9",
+      "CategoryName": "DISH",
+      "name": "Butter Chicken",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_sZZjpyR1dUFAMRo5b7BzEIaPWLaDk0UUdA&s",
+      "options": [
+        {
+          "Half": "350",
+          "Full": "600"
+        }
+      ],
+      "description": "Butter chicken is a creamy, flavorful dish featuring tender chicken cooked in a rich tomato-based gravy with butter, cream, and aromatic spices. 🍗🔥🍛"
+    },
+    {
+      "_id": "67e802f32285244b663c2bea",
+      "CategoryName": "DISH",
+      "name": " Chicken Masala",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL3lNrzq5jBaVWnbfBtFzPO2QBWrh7UvUwmQ&s",
+      "options": [
+        {
+          "Half": "340",
+          "Full": "600"
+        }
+      ],
+      "description": "Chicken Masala is a spicy, flavorful dish made with tender chicken cooked in a rich blend of tomatoes, onions, and aromatic spices. Perfect with naan or rice! 🍛🔥"
+    },
+    {
+      "_id": "67e802f32285244b663c2beb",
+      "CategoryName": "DISH",
+      "name": " Chicken Chatpata",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdqhsYQ7EB3kUYnF39z401j3CI5pP2tDUuBA&s",
+      "options": [
+        {
+          "Half": "340",
+          "Full": "600"
+        }
+      ],
+      "description": "Chicken Chatpata is a spicy, flavorful dish made with tender chicken cooked in a rich blend of tomatoes, onions, and aromatic spices. Perfect with naan or rice! 🍛🔥"
+    },
+    {
+      "_id": "67e802f32285244b663c2bec",
+      "CategoryName": "DISH",
+      "name": "kadhai Chicken",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNfGsmzcl6gJxsuCpxA0B-45fL7PMH2lIbkw&s",
+      "options": [
+        {
+          "Half": "340",
+          "Full": "600"
+        }
+      ],
+      "description": "Kadhai Chicken is a flavorful North Indian dish cooked in a traditional *kadhai* (wok) with bell peppers, onions, tomatoes, and aromatic spices like coriander, cumin, and garam masala. Best enjoyed with naan or roti."
+    },
+    {
+      "_id": "67e802f32285244b663c2bed",
+      "CategoryName": "DISH",
+      "name": "kali Mirch Chicken",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOhYtpcen_2r9BbhdqDaa3-57zB8TTF_mkMg&s",
+      "options": [
+        {
+          "Half": "380",
+          "Full": "600"
+        }
+      ],
+      "description": "Kali Mirch Chicken is a flavorful North Indian dish cooked in a traditional *kadhai* (wok) with bell peppers, onions, tomatoes, and aromatic spices like coriander, cumin, and garam masala. Best enjoyed with naan or roti."
+    },
+    {
+      "_id": "67e802f32285244b663c2bee",
+      "CategoryName": "DISH",
+      "name": "kumaoni Chicken",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw0wdaRO-tN8iy1ScdZL17QO-DaR2nPQ_S0A&s",
+      "options": [
+        {
+          "Half": "360",
+          "Full": "600"
+        }
+      ],
+      "description": "Kumaoni Chicken is a rustic Himalayan dish from Uttarakhand, cooked with local spices like jakhiya (wild mustard), garlic, and yogurt, offering a bold, earthy flavor. Best paired with steamed rice or bhatt ki churkani."
+    },
+    {
+      "_id": "67e802f32285244b663c2bef",
+      "CategoryName": "DISH",
+      "name": "Handi Chicken",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRstR00NpfAfQAJYPLvUkIUGasUVvxmHJv7HQ&s",
+      "options": [
+        {
+          "Half": "360",
+          "Full": "600"
+        }
+      ],
+      "description": "Handi Chicken is a rich, slow-cooked North Indian curry prepared in a clay pot (handi), featuring tender chicken in a creamy, aromatic gravy with yogurt, spices, and fresh herbs. Best enjoyed with naan or steamed rice."
+    },
+    {
+      "_id": "67e802f32285244b663c2bf0",
+      "CategoryName": "DISH",
+      "name": " Chicken Tikka Butter Masala",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLhH6nWMG7o2h1-cl7IN-fHq6MMRA6tlW5aA&s",
+      "options": [
+        {
+          "Half": "370",
+          "Full": "600"
+        }
+      ],
+      "description": "Chicken Tikka Butter Masala is a creamy, smoky North Indian dish featuring tandoori chicken tikka simmered in a rich tomato-cashew gravy with butter, cream, and aromatic spices. Best paired with garlic naan or jeera rice."
+    },
+    {
+      "_id": "67e802f32285244b663c2bf1",
+      "CategoryName": "STARTER",
+      "name": " Chicken Momos",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLBX8IxjmeJmxaTr_7vTphKiVD8dGsK9L7FQ&s",
+      "options": [
+        {
+          "Half": "70",
+          "Full": "140"
+        }
+      ],
+      "description": "Chicken Momos are steamed Himalayan dumplings filled with spiced minced chicken, garlic, and ginger, served with fiery red chutney. A beloved street food from Nepal to Northeast India."
+    },
+    {
+      "_id": "67e802f32285244b663c2bf2",
+      "CategoryName": "STARTER",
+      "name": " Veg Momos",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2JmM-wGRGo0LtCfyTdQdo4803sPRki_-5mQ&s",
+      "options": [
+        {
+          "Half": "60",
+          "Full": "120"
+        }
+      ],
+      "description": "Chicken Momos are steamed Himalayan dumplings filled with spiced minced chicken, garlic, and ginger, served with fiery red chutney. A beloved street food from Nepal to Northeast India."
+    },
+    {
+      "_id": "67e802f32285244b663c2bf3",
+      "CategoryName": "STARTER",
+      "name": " Veg Noodles",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFkhsEba2qv1kGK4olZn1UR8zz5n08y7bOKA&s",
+      "options": [
+        {
+          "One": "120"
+        }
+      ],
+      "description": "Veg Noodles are stir-fried noodles loaded with crunchy bell peppers, carrots, cabbage, and spring onions, tossed in soy sauce and spices. A quick, flavorful Indo-Chinese street food favorite!"
+    },
+    {
+      "_id": "67e802f32285244b663c2bf4",
+      "CategoryName": "STARTER",
+      "name": "Hakka Noodles",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqoh-gWvwncx-Z4x57pCMnNjiW514I2atUQ&s",
+      "options": [
+        {
+          "Veg": "200",
+          "Non-veg": "240"
+        }
+      ],
+      "description": "Hakka Noodles are springy, stir-fried noodles tossed with crunchy veggies, soy sauce, vinegar, and garlic—a fiery Indo-Chinese classic. Perfect with chilli paneer or Manchurian!"
+    },
+    {
+      "_id": "67e802f32285244b663c2bf5",
+      "CategoryName": "STARTER",
+      "name": "Thupa",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaFWWItZ-xk5BjO8AScG4y7SoGgn-Ju67Nw&s",
+      "options": [
+        {
+          "Veg": "170",
+          "Non-veg": "200"
+        }
+      ],
+      "description": "Thuppa is a traditional Tibetan noodle soup, popular in Nepal and India, featuring handmade noodles, vegetables, meat, and flavorful broth."
+    },
+    {
+      "_id": "67e802f32285244b663c2bf6",
+      "CategoryName": "STARTER",
+      "name": "Veg Spring Roll",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOaLjHPKVjqc6hdl7E9yXfLLemCHjJdK72WA&s",
+      "options": [
+        {
+          "One": "150"
+        }
+      ],
+      "description": "Veg spring roll is a crispy, deep-fried appetizer filled with stir-fried vegetables like cabbage, carrots, and bell peppers, wrapped in a thin wheat wrapper."
+    },
+    {
+      "_id": "67e802f32285244b663c2bf7",
+      "CategoryName": "STARTER",
+      "name": "Chicken Lollipop(4 pcs)",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8EmVzTpMOjWLVa_P4P0S7dQz53cHuDXokUQ&s",
+      "options": [
+        {
+          "One": "300"
+        }
+      ],
+      "description": "Chicken Lollipop is a popular Indo-Chinese appetizer made from chicken drumettes or wingettes, marinated in spices, deep-fried, and served with spicy sauce."
+    },
+    {
+      "_id": "67e802f32285244b663c2bf8",
+      "CategoryName": "STARTER",
+      "name": "Chicken Potato (4 pcs)",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGBQMde7WuH8DuO6Rf5zvxGoTO_jLlTT7waA&s",
+      "options": [
+        {
+          "One": "230"
+        }
+      ],
+      "description": "Chicken Potato is a popular Indo-Chinese appetizer made from chicken drumettes or wingettes, marinated in spices, deep-fried, and served with spicy sauce."
+    },
+    {
+      "_id": "67e802f32285244b663c2bf9",
+      "CategoryName": "STARTER",
+      "name": "Chilly Potato ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGBQMde7WuH8DuO6Rf5zvxGoTO_jLlTT7waA&s",
+      "options": [
+        {
+          "One": "230"
+        }
+      ],
+      "description": "Chilly Potato is a popular Indo-Chinese appetizer made from chicken drumettes or wingettes, marinated in spices, deep-fried, and served with spicy sauce."
+    },
+    {
+      "_id": "67e802f32285244b663c2bfa",
+      "CategoryName": "STARTER",
+      "name": "Chilly Roll ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6lARebQMaWA-SC_sWkRFG_qKlEA7w16ywcQ&s",
+      "options": [
+        {
+          "One": "220"
+        }
+      ],
+      "description": "Chicken roll is a popular street food featuring spiced grilled or fried chicken wrapped in a paratha or roti, often with chutney and veggies."
+    },
+    {
+      "_id": "67e802f32285244b663c2bfb",
+      "CategoryName": "STARTER",
+      "name": "Paneer Roll ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6lARebQMaWA-SC_sWkRFG_qKlEA7w16ywcQ&s",
+      "options": [
+        {
+          "One": "200"
+        }
+      ],
+      "description": "Paneer roll is a delicious street food made with spiced grilled or sautéed paneer wrapped in a soft paratha or roti, served with chutney."
+    },
+    {
+      "_id": "67e802f32285244b663c2bfc",
+      "CategoryName": "STARTER",
+      "name": "Veg Roll ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6lARebQMaWA-SC_sWkRFG_qKlEA7w16ywcQ&s",
+      "options": [
+        {
+          "One": "180"
+        }
+      ],
+      "description": "Veg roll is a tasty street food made with spiced mixed vegetables wrapped in a soft paratha or roti, served with chutney and sauces."
+    },
+    {
+      "_id": "67e802f32285244b663c2bfd",
+      "CategoryName": "STARTER",
+      "name": "Egg Roll ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6lARebQMaWA-SC_sWkRFG_qKlEA7w16ywcQ&s",
+      "options": [
+        {
+          "One": "180"
+        }
+      ],
+      "description": "Egg roll is a popular street food made with a paratha coated in egg, filled with spiced veggies or chicken, and served with sauces."
+    },
+    {
+      "_id": "67e802f32285244b663c2bfe",
+      "CategoryName": "STARTER",
+      "name": "Chicken Egg Roll ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6lARebQMaWA-SC_sWkRFG_qKlEA7w16ywcQ&s",
+      "options": [
+        {
+          "One": "240"
+        }
+      ],
+      "description": "Chicken Egg roll is a popular street food made with a paratha coated in egg, filled with spiced veggies or chicken, and served with sauces."
+    },
+    {
+      "_id": "67e802f32285244b663c2bff",
+      "CategoryName": "STARTER",
+      "name": "Chicken Fingers ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS646Wtuc2XVzqVB4CR1Du_7QbU-I30uGNwFg&s",
+      "options": [
+        {
+          "One": "350"
+        }
+      ],
+      "description": "Chicken fingers are crispy, breaded chicken strips, deep-fried or baked, served with dipping sauces, popular as a snack or meal."
+    },
+    {
+      "_id": "67e802f32285244b663c2c00",
+      "CategoryName": "STARTER",
+      "name": "Honey Chicken Fingers ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS646Wtuc2XVzqVB4CR1Du_7QbU-I30uGNwFg&s",
+      "options": [
+        {
+          "One": "380"
+        }
+      ],
+      "description": " Honey Chicken fingers are crispy, breaded chicken strips, deep-fried or baked, served with dipping sauces, popular as a snack or meal."
+    },
+    {
+      "_id": "67e802f32285244b663c2c01",
+      "CategoryName": "STARTER",
+      "name": "French Fries",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemFgwbD_8LFsZLqxKhyaW0odUJkkgj4UBRw&s",
+      "options": [
+        {
+          "One": "200"
+        }
+      ],
+      "description": " French fries are crispy, deep-fried potato strips, salted and served as a snack or side dish, often with ketchup or sauces."
+    },
+    {
+      "_id": "67e802f32285244b663c2c02",
+      "CategoryName": "STARTER",
+      "name": "Mix Veg Pakoda",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS958cseLUAXhhBbprWtySt5KVumOWYV_99Qw&s",
+      "options": [
+        {
+          "One": "240"
+        }
+      ],
+      "description": " Mix veg pakoda is a crunchy, deep-fried Indian snack made with assorted vegetables, coated in spiced gram flour batter, and served hot."
+    },
+    {
+      "_id": "67e802f32285244b663c2c03",
+      "CategoryName": "STARTER",
+      "name": "Paneer Pakoda",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS958cseLUAXhhBbprWtySt5KVumOWYV_99Qw&s",
+      "options": [
+        {
+          "One": "300"
+        }
+      ],
+      "description": " Paneer pakoda is a crunchy, deep-fried Indian snack made with assorted vegetables, coated in spiced gram flour batter, and served hot."
+    },
+    {
+      "_id": "67e802f32285244b663c2c04",
+      "CategoryName": "STARTER",
+      "name": "Chicken Pakoda",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS958cseLUAXhhBbprWtySt5KVumOWYV_99Qw&s",
+      "options": [
+        {
+          "One": "480"
+        }
+      ],
+      "description": " Chicken pakoda is a crispy, deep-fried Indian snack made with marinated chicken pieces coated in spiced gram flour batter, served with chutney."
+    },
+    {
+      "_id": "67e802f32285244b663c2c05",
+      "CategoryName": "STARTER",
+      "name": "Fish Pakoda",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS958cseLUAXhhBbprWtySt5KVumOWYV_99Qw&s",
+      "options": [
+        {
+          "One": "480"
+        }
+      ],
+      "description": " Fish pakoda is a crispy, deep-fried snack made with marinated fish pieces coated in spiced gram flour batter, served with chutney or sauce."
+    },
+    {
+      "_id": "67e802f32285244b663c2c06",
+      "CategoryName": "DISH",
+      "name": "Mutton Rogan Josh",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ50YAF4UHq060JcV5-spOGtnliaPktqsKkAg&s",
+      "options": [
+        {
+          "Half": "480",
+          "Full": "800"
+        }
+      ],
+      "description": "Mutton Rogan Josh is a rich, aromatic Kashmiri curry made with tender mutton slow-cooked in a flavorful blend of spices and yogurt."
+    },
+    {
+      "_id": "67e802f32285244b663c2c07",
+      "CategoryName": "DISH",
+      "name": "Mutton Curry",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKTX8K1kkGV3QiOSTsRz_qpLRe41Dh68Uzrg&s",
+      "options": [
+        {
+          "Half": "440",
+          "Full": "800"
+        }
+      ],
+      "description": "Mutton curry is a flavorful, slow-cooked dish made with tender mutton pieces simmered in a spicy, aromatic gravy of onions, tomatoes, and spices."
+    },
+    {
+      "_id": "67e802f32285244b663c2c08",
+      "CategoryName": "DISH",
+      "name": "Mutton Masala",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiR8Vl70ELc-KMW9bMrSU73y-BFL0BRVm28A&s",
+      "options": [
+        {
+          "Half": "480",
+          "Full": "800"
+        }
+      ],
+      "description": "Mutton curry is a flavorful, slow-cooked dish made with tender mutton pieces simmered in a spicy, aromatic gravy of onions, tomatoes, and spices."
+    },
+    {
+      "_id": "67e802f32285244b663c2c09",
+      "CategoryName": "DISH",
+      "name": "Kadai Mutton",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTexyPXo6aKkU79xRaRK5HeYyYnHBDpfz29WQ&s",
+      "options": [
+        {
+          "Half": "480",
+          "Full": "800"
+        }
+      ],
+      "description": "Kadai mutton is a spicy, semi-dry Indian dish made with tender mutton, cooked in a rich tomato-based gravy with bold spices and capsicum."
+    },
+    {
+      "_id": "67e802f32285244b663c2c0a",
+      "CategoryName": "DISH",
+      "name": "Handi Mutton",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTexyPXo6aKkU79xRaRK5HeYyYnHBDpfz29WQ&s",
+      "options": [
+        {
+          "Half": "480",
+          "Full": "800"
+        }
+      ],
+      "description": "Handi mutton is a spicy, semi-dry Indian dish made with tender mutton, cooked in a rich tomato-based gravy with bold spices and capsicum."
+    },
+    {
+      "_id": "67e802f32285244b663c2c0b",
+      "CategoryName": "DISH",
+      "name": "Plain Rice",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7QtIROau3b0M3yjBj-HwdXWOFfiMCSk83sA&s",
+      "options": [
+        {
+          "One": "100"
+        }
+      ],
+      "description": "Plain rice is simple, steamed or boiled rice, light and fluffy, served as a staple side dish with curries, dals, or vegetables."
+    },
+    {
+      "_id": "67e802f32285244b663c2c0c",
+      "CategoryName": "DISH",
+      "name": "Jeera Rice",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7QtIROau3b0M3yjBj-HwdXWOFfiMCSk83sA&s",
+      "options": [
+        {
+          "One": "120"
+        }
+      ],
+      "description": "Jeera rice is a fragrant Indian dish made with basmati rice sautéed with cumin seeds (jeera) and ghee, served as a flavorful side."
+    },
+    {
+      "_id": "67e802f32285244b663c2c0d",
+      "CategoryName": "DISH",
+      "name": "Matar Pulao",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHFNbTWMWERs3CLNwSx6z8GgpUMZZI-zzAAA&s",
+      "options": [
+        {
+          "One": "200"
+        }
+      ],
+      "description": "Matar pulao is a fragrant rice dish made with basmati rice, green peas, and aromatic spices, cooked to perfection for a flavorful meal."
+    },
+    {
+      "_id": "67e802f32285244b663c2c0e",
+      "CategoryName": "DISH",
+      "name": "Veg Biryani",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA8VvRPS0F88hWqX5rdLXqdKdgQqPyzzRjJQ&s",
+      "options": [
+        {
+          "One": "240"
+        }
+      ],
+      "description": "Veg biryani is a fragrant, spiced rice dish made with basmati rice, mixed vegetables, aromatic spices, and herbs, layered and slow-cooked to perfection."
+    },
+    {
+      "_id": "67e802f32285244b663c2c0f",
+      "CategoryName": "DISH",
+      "name": "Egg Biryani",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtOR9HhoyrMgvWVi71Hl5PNRyepiUZTFS9Q&s",
+      "options": [
+        {
+          "One": "280"
+        }
+      ],
+      "description": "Egg biryani is a flavorful rice dish made with basmati rice, boiled eggs, aromatic spices, and herbs, layered and slow-cooked for rich taste."
+    },
+    {
+      "_id": "67e802f32285244b663c2c10",
+      "CategoryName": "DISH",
+      "name": "Chicken Biryani",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6zjdUKp_LX8f8n0_tSQpNtB2lMhxg2uicA&s",
+      "options": [
+        {
+          "One": "320"
+        }
+      ],
+      "description": "Chicken biryani is a flavorful, aromatic dish made with marinated chicken, basmati rice, and a blend of spices, slow-cooked for rich taste."
+    },
+    {
+      "_id": "67e802f32285244b663c2c11",
+      "CategoryName": "DISH",
+      "name": "Paneer Biryani",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdNgq_cQvMw5PNUurW6AzgyoXFsZwacPW5yg&s",
+      "options": [
+        {
+          "One": "280"
+        }
+      ],
+      "description": "Paneer biryani is a fragrant, spiced rice dish made with basmati rice, marinated paneer, aromatic spices, and herbs, layered and slow-cooked for rich flavor."
+    },
+    {
+      "_id": "67e802f32285244b663c2c12",
+      "CategoryName": "DISH",
+      "name": "Tandoori Roti",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-yKmRb497yZRIuL7gra03rx2RCKjeLxsnQ&s",
+      "options": [
+        {
+          "three": "45",
+          "Six": "90",
+          "Twelve": "180",
+          "Twenty": "300"
+        }
+      ],
+      "description": "Tandoori roti is a traditional Indian flatbread made from whole wheat flour, cooked in a tandoor for a smoky flavor and soft, chewy texture."
+    },
+    {
+      "_id": "67e802f32285244b663c2c13",
+      "CategoryName": "DISH",
+      "name": "Tandoori Roti(with Butter)",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-yKmRb497yZRIuL7gra03rx2RCKjeLxsnQ&s",
+      "options": [
+        {
+          "three": "60",
+          "Six": "120",
+          "Twelve": "240",
+          "Twenty": "400"
+        }
+      ],
+      "description": "Tandoori Butter  roti is a traditional Indian flatbread made from whole wheat flour, cooked in a tandoor for a smoky flavor and soft, chewy texture."
+    },
+    {
+      "_id": "67e802f32285244b663c2c14",
+      "CategoryName": "DISH",
+      "name": "Missi Roti",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhgpkliWyHtunZkcO9Tjzj2bWNPhwbd1hLoQ&s",
+      "options": [
+        {
+          "three": "120",
+          "Six": "240",
+          "Twelve": "480",
+          "Twenty": "800"
+        }
+      ],
+      "description": "Missi roti is a flavorful Indian flatbread made with gram flour, whole wheat flour, and spices, cooked on a tandoor or griddle for a rustic taste."
+    },
+    {
+      "_id": "67e802f32285244b663c2c15",
+      "CategoryName": "DISH",
+      "name": "Missi Roti(With Butter)",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhgpkliWyHtunZkcO9Tjzj2bWNPhwbd1hLoQ&s",
+      "options": [
+        {
+          "three": "150",
+          "Six": "300",
+          "Twelve": "600",
+          "Twenty": "1000"
+        }
+      ],
+      "description": "Missi roti is a flavorful Indian flatbread made with gram flour, whole wheat flour, and spices, cooked on a tandoor or griddle for a rustic taste."
+    },
+    {
+      "_id": "67e802f32285244b663c2c16",
+      "CategoryName": "DISH",
+      "name": "Rumali Roti",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhgpkliWyHtunZkcO9Tjzj2bWNPhwbd1hLoQ&s",
+      "options": [
+        {
+          "three": "90",
+          "Six": "180",
+          "Twelve": "360",
+          "Twenty": "600"
+        }
+      ],
+      "description": "Rumali roti is a soft, thin, and stretchy Indian flatbread made from refined flour, rolled paper-thin, and cooked on an inverted tawa for a delicate texture."
+    },
+    {
+      "_id": "67e802f32285244b663c2c17",
+      "CategoryName": "DISH",
+      "name": "Rumali Roti(With Butter)",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhgpkliWyHtunZkcO9Tjzj2bWNPhwbd1hLoQ&s",
+      "options": [
+        {
+          "three": "120",
+          "Six": "240",
+          "Twelve": "480",
+          "Twenty": "800"
+        }
+      ],
+      "description": "Rumali roti is a soft, thin, and stretchy Indian flatbread made from refined flour, rolled paper-thin, and cooked on an inverted tawa for a delicate texture."
+    },
+    {
+      "_id": "67e802f32285244b663c2c18",
+      "CategoryName": "DISH",
+      "name": "Plain Naan",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3RvD1zb9YOlmNDkAn78sjUG5JkgtBeejHiA&s",
+      "options": [
+        {
+          "three": "210",
+          "Six": "420",
+          "Twelve": "840",
+          "Twenty": "1400"
+        }
+      ],
+      "description": "Naan is a soft, fluffy Indian flatbread made from refined flour, traditionally cooked in a tandoor, often served plain or with butter, garlic, or stuffing."
+    },
+    {
+      "_id": "67e802f32285244b663c2c19",
+      "CategoryName": "DISH",
+      "name": "Butter Naan",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3RvD1zb9YOlmNDkAn78sjUG5JkgtBeejHiA&s",
+      "options": [
+        {
+          "three": "240",
+          "Six": "480",
+          "Twelve": "960",
+          "Twenty": "1600"
+        }
+      ],
+      "description": " ButterNaan is a soft, fluffy Indian flatbread made from refined flour, traditionally cooked in a tandoor, often served plain or with butter, garlic, or stuffing."
+    },
+    {
+      "_id": "67e802f32285244b663c2c1a",
+      "CategoryName": "DISH",
+      "name": "Garlic Naan",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3RvD1zb9YOlmNDkAn78sjUG5JkgtBeejHiA&s",
+      "options": [
+        {
+          "One": "100"
+        }
+      ],
+      "description": " Garlic Naan is a soft, fluffy Indian flatbread made from refined flour, traditionally cooked in a tandoor, often served plain or with butter, garlic, or stuffing."
+    },
+    {
+      "_id": "67e802f32285244b663c2c1b",
+      "CategoryName": "DISH",
+      "name": "Stuffed Naan",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3RvD1zb9YOlmNDkAn78sjUG5JkgtBeejHiA&s",
+      "options": [
+        {
+          "One": "120"
+        }
+      ],
+      "description": "Stuffed Naan is a soft, fluffy Indian flatbread made from refined flour, traditionally cooked in a tandoor, often served plain or with butter, garlic, or stuffing."
+    },
+    {
+      "_id": "67e802f32285244b663c2c1c",
+      "CategoryName": "DISH",
+      "name": "Paneer Naan",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3RvD1zb9YOlmNDkAn78sjUG5JkgtBeejHiA&s",
+      "options": [
+        {
+          "One": "140"
+        }
+      ],
+      "description": "Paneer Naan is a soft, fluffy Indian flatbread made from refined flour, traditionally cooked in a tandoor, often served plain or with butter, garlic, or stuffing."
+    },
+    {
+      "_id": "67e802f32285244b663c2c1d",
+      "CategoryName": "DISH",
+      "name": "Onion Kulcha",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3RvD1zb9YOlmNDkAn78sjUG5JkgtBeejHiA&s",
+      "options": [
+        {
+          "One": "100"
+        }
+      ],
+      "description": "Onian Kulcha is a soft, fluffy Indian flatbread made from refined flour, traditionally cooked in a tandoor, often served plain or with butter, garlic, or stuffing."
+    },
+    {
+      "_id": "67e802f32285244b663c2c1e",
+      "CategoryName": "DISH",
+      "name": "Paneer Kulcha",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3RvD1zb9YOlmNDkAn78sjUG5JkgtBeejHiA&s",
+      "options": [
+        {
+          "One": "140"
+        }
+      ],
+      "description": "Paneer Kulcha is a soft, fluffy Indian flatbread made from refined flour, traditionally cooked in a tandoor, often served plain or with butter, garlic, or stuffing."
+    },
+    {
+      "_id": "67e802f32285244b663c2c1f",
+      "CategoryName": "DISH",
+      "name": "Laccha Paratha",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3RvD1zb9YOlmNDkAn78sjUG5JkgtBeejHiA&s",
+      "options": [
+        {
+          "One": "60"
+        }
+      ],
+      "description": "Laccha Paratah is a soft, fluffy Indian flatbread made from refined flour, traditionally cooked in a tandoor, often served plain or with butter, garlic, or stuffing."
+    },
+    {
+      "_id": "67e802f32285244b663c2c20",
+      "CategoryName": "DISH",
+      "name": "Veg Raita",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJuxauL8IZtv9P2_neWA4_-pbS4ZXDBPTyhA&s",
+      "options": [
+        {
+          "One": "150"
+        }
+      ],
+      "description": "Veg raita is a refreshing yogurt-based side dish mixed with chopped vegetables like cucumber, tomato, and onion, seasoned with spices for a cooling accompaniment."
+    },
+    {
+      "_id": "67e802f32285244b663c2c21",
+      "CategoryName": "DISH",
+      "name": "Kumaoni Raita",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJuxauL8IZtv9P2_neWA4_-pbS4ZXDBPTyhA&s",
+      "options": [
+        {
+          "One": "150"
+        }
+      ],
+      "description": "Kumaoni Raita raita is a refreshing yogurt-based side dish mixed with chopped vegetables like cucumber, tomato, and onion, seasoned with spices for a cooling accompaniment."
+    },
+    {
+      "_id": "67e802f32285244b663c2c22",
+      "CategoryName": "STARTER",
+      "name": "Gulab Jamun",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Iow7GX3KadJyHLZS93gjK7M_JlmctVWCIA&s",
+      "options": [
+        {
+          "One": "150"
+        }
+      ],
+      "description": "Kumaoni Raita raita is a refreshing yogurt-based side dish mixed with chopped vegetables like cucumber, tomato, and onion, seasoned with spices for a cooling accompaniment."
+    }
+  ],
+  "foodCategories": [
+    {
+      "_id": "67baf22b1795f3457fdfa81f",
+      "CategoryName": "DISH"
+    },
+    {
+      "_id": "67baf22b1795f3457fdfa81e",
+      "CategoryName": "STARTER"
+    },
+    {
+      "_id": "67baf22b1795f3457fdfa81d",
+      "CategoryName": "VARIETY SWEETS"
+    }
+  ]
+}
