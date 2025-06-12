@@ -16,7 +16,7 @@ const Contact = ({contactData}) => {
   };
 
   return (
-    <div className="bg-gradient-to-br from-red-600 to-red-800 text-black lg:px-30">
+    <div className="bg-gradient-to-br from-yellow-50 to-green-400  text-black lg:px-30">
       <div className=" px-6 py-12  lg:mx-30">
         
 
@@ -26,13 +26,13 @@ const Contact = ({contactData}) => {
               key={key} 
               className="flex   mb-2 rounded-lg "
             >
-              <div className="p-2 bg-opacity-20  text-white rounded-full">
+              <div className="p-2 bg-opacity-20  text-black rounded-full">
                 {getIcon(key)}
               </div>
               <div>
-                <h3 className="text-lg text-white font-semibold capitalize">{key}
+                <h3 className="text-lg text-black font-semibold capitalize">{key}
                 </h3>
-                <p className="text-white text-opacity-90">
+                <p className="text-black text-opacity-90">
                   {value}
                 </p>
               </div>
@@ -40,8 +40,8 @@ const Contact = ({contactData}) => {
           ))}
         </div>
 
-        <div className="border-t border-white  pt-8 text-center">
-          <p className="text-white ">
+        <div className="border-t border-black  pt-8 text-center">
+          <p className="text-black ">
             © 2025  Aliado. All Rights Reserved.
           </p>
          
