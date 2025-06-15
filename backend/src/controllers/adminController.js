@@ -4,11 +4,9 @@ const addCategory = (req,res) => {
 const deleteCategory = (req,res) => {
  
 }
-const renameCategory = (req,res) => {
+const toggleAvl = (req,res) =>  {
 
 }
-
-
 const addItem = (req,res) => {
 
 }
@@ -22,6 +20,6 @@ const updateItem = (req,res) => {
 
 }
 module.exports = {
-    addCategory,deleteCategory,renameCategory,addItem,deleteItem,renameItem,updateItem
+    addCategory,deleteCategory,addItem,deleteItem,updateItem,toggleAvl
 }
 

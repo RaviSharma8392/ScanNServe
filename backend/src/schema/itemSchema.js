@@ -1,4 +1,21 @@
 const mongoose = require("mongoose");
+
+const adminSpecificInfoSchema = mongoose.Schema({
+    admin: mongoose.Schema.Types.ObjectId,
+    categories: [mongoose.Schema.Types.ObjectId],
+    pricing: [
+        {
+            label: {
+                type: String,
+                required: true
+            },
+            price: {
+                type: Number,
+                required: true
+            }
+        }
+    ]
+})
 const itemSchema = mongoose.Schema({
     name: {
         type: String,
@@ -12,12 +29,7 @@ const itemSchema = mongoose.Schema({
         type: Mongoose.Schema.Types.ObjectId,
         ref: 'Category'
     },
-    admin: {
-        type: [Mongoose.Schema.Types.ObjectId]
-    },
-    options: {
-        type: [Object]
-    }
+    adminSpecificInfo: [adminSpecificInfoSchema]
 });
 
 module.exports = mongoose.model("item", itemSchema);
