@@ -1,4 +1,8 @@
-const connectDataBase=require("./db")
+const ServerConfig = require('./server-config');
+const DbConfig=require("./db-config")
 
-module.exports=connectDataBase
+module.exports={
+    DbConfig,
+    ServerConfig
+}
 
