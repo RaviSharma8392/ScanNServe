@@ -13,3 +13,4 @@ Inside the src folder, we will have the following directories -
 'schema' -> here the schema will be defined according to which creation of database entities will be done.
 
 routes -> v1 -> this will contain all routes that are defined in version 1 of the project.
+
