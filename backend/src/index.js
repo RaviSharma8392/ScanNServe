@@ -1,7 +1,7 @@
 const express = require('express');
 const cookieParser = require('cookie-parser');
 // const connectDataBase=require("../src/config")
-const {ServerConfig,DbConfig} = require('./config/index');
+const {ServerConfig,DbConfig} = require('./config');
 const routes = require('../src/routes');
 const app = express();
 app.use(cookieParser());
@@ -20,7 +20,7 @@ const connectServer = async () => {
       await DbConfig.connectDataBase();
       console.log(`Server running at http://localhost:${ServerConfig.PORT}`)
     }
-    );
+    );  
   } catch (error) {
     console.log(" Error starting server:", error);
   }

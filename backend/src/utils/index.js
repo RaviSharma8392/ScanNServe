@@ -1,2 +1,3 @@
 const validate = require('./validate');
-module.exports = {validate};
+const createJWT = require('./create-jwt');
+module.exports = {validate,createJWT};

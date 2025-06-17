@@ -1,3 +1,12 @@
+const addProperty = () => {
+
+}
+const deleteProperty = () => {
+
+}
+const updateProperty = () => {
+
+}
 const addCategory = (req,res) => {
 
 }
@@ -20,6 +29,6 @@ const updateItem = (req,res) => {
 
 }
 module.exports = {
-    addCategory,deleteCategory,addItem,deleteItem,updateItem,toggleAvl
+    addCategory,deleteCategory,addItem,deleteItem,updateItem,toggleAvl,addProperty,deleteProperty,updateProperty,renameItem
 }
 

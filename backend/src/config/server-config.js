@@ -2,5 +2,6 @@ const dotenv = require('dotenv');
 dotenv.config();
 
 const PORT = process.env.port;
-
-module.exports = {PORT}
+const JWTSecret = process.env.port;
+const JWT_EXPIRY = process.env.JWT_EXPIRY
+module.exports = {PORT,JWTSecret,JWT_EXPIRY}

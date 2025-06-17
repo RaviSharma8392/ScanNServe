@@ -8,7 +8,7 @@ const userRepository = {
         return newUser
     },
     getByEmail: async function(email){
-        const user = await User.findOne(email);
+        const user = await User.findOne({email});
         return user;
     },
     getByUserName: async function(name){

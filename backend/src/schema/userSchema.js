@@ -30,6 +30,10 @@ const userSchema = mongoose.Schema({
     /^[6-9]\d{9}$/,
     'Please enter a valid 10-digit Indian mobile number'
   ]
+},
+role: {
+  type: String,
+  enum: ['admin','super-admin']
 }
 })
 
