@@ -14,6 +14,11 @@ const userRepository = {
     getByUserName: async function(name){
         const user = await User.find({name}).select('-password');
         return user
+    },
+    getByToken: async function(token){
+        const decodedToken = jwt.verify(token);
+        const {id} = decodedToken;
+        return id;
     }
 
 }

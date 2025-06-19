@@ -7,13 +7,10 @@ const categorySchema = mongoose.Schema({
         trim: true,
         lowercase: true
     },
-    admin: {
-        type: [mongoose.Schema.Types.ObjectId],
+    admin: [{
+        type: mongoose.Schema.Types.ObjectId,
         ref: 'User'
-    },
-    image: {
-        type: String
-    }
+    }]
 })
-//before importing, convert everything to lowercase
+
 module.exports = mongoose.Model('Category', categorySchema);
