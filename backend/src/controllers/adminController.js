@@ -26,9 +26,17 @@ const addCategory = (req,res) => {
 const deleteCategory = (req,res) => {
  
 }
-const toggleAvl = (req,res) =>  {
+const toggleAvl = async (req,res) =>  {
+try{
 // we will need property name, item name, and fieldName to toggle availability
-
+const data = req.body;
+const response = await toggleMenuItemService(data);
+res.status(StatusCodes.OK).json(response);
+}
+catch(error){
+    console.log("Toggle Availability Eror", error);
+    res.status(StatusCodes.INTERNAL_SERVER_ERROR).json(error);
+}
 }
 const addItem = async (req,res) => {
 try{

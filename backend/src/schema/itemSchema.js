@@ -1,8 +1,14 @@
 const mongoose = require("mongoose");
 
-const adminSpecificInfoSchema = mongoose.Schema({
-  admin: mongoose.Schema.Types.ObjectId,
-  categories: [mongoose.Schema.Types.ObjectId],
+const propertySpecificInfoSchema = mongoose.Schema({
+  property: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'Property'
+  },
+  categories: {
+    type: [mongoose.Schema.Types.ObjectId],
+    ref: 'Category'
+  },
   pricing: [
     {
       label: {
@@ -15,6 +21,10 @@ const adminSpecificInfoSchema = mongoose.Schema({
       },
     },
   ],
+  availability: { type: Boolean ,
+    required: true,
+    default: true
+  }
 });
 const itemSchema = mongoose.Schema({
   name: {
@@ -25,15 +35,7 @@ const itemSchema = mongoose.Schema({
     minLength: 2,
     maxLength: 50,
   },
-  category: {
-    type: Mongoose.Schema.Types.ObjectId,
-    ref: "Category",
-  },
-  adminSpecificInfo: [adminSpecificInfoSchema],
-  availability: { type: Boolean ,
-    required: true,
-    default: true
-  },
+  propertySpecificInfo: [propertySpecificInfoSchema]
 });
 
 module.exports = mongoose.model("item", itemSchema);
