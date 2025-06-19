@@ -9,11 +9,11 @@ return {
         const allDocs = await model.find();
         return allDocs;
     },
-    getById: async function(){
+    getById: async function(id){
         const doc = await model.findById(id);
         return doc;
     },
-    delete: async function(){
+    delete: async function(id){
         const response = await model.findByIdAndDelete(id);
         return doc;
     },

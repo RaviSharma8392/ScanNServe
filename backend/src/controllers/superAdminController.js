@@ -1,5 +1,7 @@
 const { StatusCodes } = require("http-status-codes");
 const {signUpService }= require("../services");
+
+
 const createAdmin = async (req, res) => {
   try {
     const data = req.body;
