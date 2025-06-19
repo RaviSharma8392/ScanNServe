@@ -1,6 +1,5 @@
 const {StatusCodes} = require('http-status-codes');
-const {addPropertyService} = require('../services');
-
+const {addPropertyService, addMenuItemService,deleteMenuItemService,updateMenuItemService,toggleMenuItemService} = require('../services');
 
 const addProperty = async (req,res) => {
     // name,address,colorTheme,callingNumber,whatsappNumber
@@ -28,21 +27,47 @@ const deleteCategory = (req,res) => {
  
 }
 const toggleAvl = (req,res) =>  {
+// we will need property name, item name, and fieldName to toggle availability
 
 }
-const addItem = (req,res) => {
+const addItem = async (req,res) => {
+try{
+    const data = req.body;
+    //name,availability,propertyId,category,pricing,itemId
+const response = await addMenuItemService(data);
+    res.status(StatusCodes.CREATED).json("Item successfully Added", response);
+}
+catch(error){
+    console.log("Add Item controller error", error);
+    res.status(StatusCodes.INTERNAL_SERVER_ERROR).json(error);
+}
+}
+const deleteItem = async (req,res) => {
+try{
+    const data = req.body;
+const response = await deleteMenuItemService(data);
+res.status(StatusCodes.OK).json(respone);
+}
+catch(error){
+console.log("Delete Item Controller Error", error);
+res.status(StatusCodes.INTERNAL_SERVER_ERROR).json(error);
+}
 
 }
-const deleteItem = (req,res) => {
-
+const updateItem = async (req,res) => {
+try{
+    //we will need item, property name, fieldName and its new Value to update item.
+    const data = req.body;
+    const response = await updateMenuItemService(data);
+    res.status(StatusCodes.OK).json(response);
 }
-const renameItem = (req,res) => {
-
+catch(error){
+    console.log("Update Item Controller error", error);
+    res.status(StatusCodes.INTERNAL_SERVER_ERROR).json(error);
 }
-const updateItem = (req,res) => {
-
 }
+
 module.exports = {
-    addCategory,deleteCategory,addItem,deleteItem,updateItem,toggleAvl,addProperty,deleteProperty,updateProperty,renameItem
+    addCategory,deleteCategory,addItem,deleteItem,updateItem,toggleAvl,addProperty,deleteProperty,updateProperty,updateItem
 }
 
