@@ -15,11 +15,12 @@ return {
     },
     delete: async function(id){
         const response = await model.findByIdAndDelete(id);
-        return doc;
+        return response;
     },
-    update: async function(id,data){
-        const updatedDoc = await model.findByIdAndUpdate(id,data,{new: true});
-        return doc;
+    update: async function(_id,data){
+const updatedDoc = await model.findByIdAndUpdate(_id, data, { new: true });
+        return updatedDoc;
+
     },
     deleteMany: async function(docIds){
         const response = await model.deleteMany({
