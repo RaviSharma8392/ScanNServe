@@ -33,11 +33,11 @@ return newProperty
 
 // update property name using property id
 
-const updatePropertyNameService=async(data,_id)=>{
+const updatePropertyService=async(data,_id)=>{
     try {
-console.log("updatedProperty Called in property Controlller Service")
-    const UpdatedName = await propertyRepository.update(_id,data);
-    return UpdatedName
+console.log("updateProperty called in PropertyController service");
+    const updatedProperty = await propertyRepository.update(_id,data);
+    return updatedProperty
         
     } catch (error) {
         console.log("error in updatedProperty Service"+error)
@@ -70,4 +70,4 @@ const deletePropertyService=async(_id)=>{
 
 
 
-module.exports = {addPropertyService,updatePropertyNameService,deletePropertyService};
+module.exports = {addPropertyService,updatePropertyService,deletePropertyService};

@@ -1,9 +1,11 @@
 const { StatusCodes } = require("http-status-codes");
 const { userRepository } = require("../repositories");
-const { updatePropertyNameService, deletePropertyService, addPropertyService } = require("../services/propertyControl");
+const {
+  updatePropertyService,
+  deletePropertyService,
+  addPropertyService,
+} = require("../services/propertyControl");
 const { addCatService } = require("../services/category");
-
-
 
 const addProperty = async (req, res) => {
   const { token } = req.cookies;
@@ -22,7 +24,7 @@ const addProperty = async (req, res) => {
     res.status(StatusCodes.INTERNAL_SERVER_ERROR).json(error);
   }
 };
-const updatePropertyName = async (req, res) => {
+const updateProperty= async (req, res) => {
   try {
     const _id = req.params.id;
     console.log(_id);
@@ -30,13 +32,13 @@ const updatePropertyName = async (req, res) => {
     const data = req.body;
     console.log(data);
 
-    const UpdatedName = await updatePropertyNameService(data, _id);
+    const UpdatedData = await updatePropertyService(data, _id);
     return res.status(StatusCodes.OK).json({
-      message: "property name changed successfully",
-      UpdatedName,
+      message: "property details changed successfully",
+      UpdatedData,
     });
   } catch (error) {
-    console.log("error in admin controller" +" " +error);
+    console.log("error in admin controller" + " " + error);
     res.status(StatusCodes.INTERNAL_SERVER_ERROR).json({
       message: "something went wrong",
       error,
@@ -45,83 +47,51 @@ const updatePropertyName = async (req, res) => {
 };
 
 // delete Property by id
-const deleteProperty = async(req,res) => {
-
-try {
-        const _id=req.params.id
-        console.log(_id)
-        if(!_id){
-            console.log("Property ID does not exist")
-            throw new Error("Property ID does not exist")
-
-
-        }
-        const deletedProperty=await deletePropertyService(_id)
-        return res.status(StatusCodes.OK).json(
-
-            {
-                success:true,
-                message:"Property Deleted Successfully",
-
-            }
-        )
-
-    
-} catch (error) {
-    console.log("error in admin controller deleted property"+" "+error)
+const deleteProperty = async (req, res) => {
+  try {
+    const _id = req.params.id;
+    console.log(_id);
+    if (!_id) {
+      console.log("Property ID does not exist");
+      throw new Error("Property ID does not exist");
+    }
+    const deletedProperty = await deletePropertyService(_id);
+    return res.status(StatusCodes.OK).json({
+      success: true,
+      message: "Property Deleted Successfully",
+    });
+  } catch (error) {
+    console.log("error in admin controller deleted property" + " " + error);
     res.status(StatusCodes.INTERNAL_SERVER_ERROR).json({
-
-          success: false,
-          error:" Something went Wrong"
-
-    }
-
-    )
-    
-}
-
+      success: false,
+      error: " Something went Wrong",
+    });
+  }
 };
-// update Property by id
-const updateProperty = () => {};
 
 
-
-// add Category
-const addCategory = async(req, res) => {
-    try {
-        console.log("Calling addCategory ")
-  const { token } = req.cookies;
-        console.log(token)
-    if(!token){
-
-        console.log("token does not exist")
-
+// add Category 
+const addCategory = async (req, res) => {
+  try {
+    console.log("Calling addCategory ");
+    const { token } = req.cookies;
+    console.log(token);
+    if (!token) {
+      console.log("token does not exist");
     }
-    const addCat=await addCatService(data, token)
+    const addCat = await addCatService(data, token);
 
-return res.status(StatusCodes.OK).json({
-success:true,
-    message:"Category Created SuccessFully",
-    addCat
-
-})
-
-
-        
-    } catch (error) {
-        res.status(StatusCodes.INTERNAL_SERVER_ERROR).json(
-
-            {
-
-                status:false,
-                error:" Something  Went Wrong  "
-            }
-        )
-        
-    }
-    
-   
-
+    return res.status(StatusCodes.OK).json({
+      success: true,
+      message: "Category Created SuccessFully",
+      addCat,
+    });
+  } catch (error) {
+    res.status(StatusCodes.INTERNAL_SERVER_ERROR).json({
+      status: false,
+      error: " Something  Went Wrong  ",
+    });
+  }
 };
 
 // delete Category
@@ -161,7 +131,7 @@ const deleteItem = async (req, res) => {
 
 module.exports = {
   addCategory,
-  updatePropertyName,
+  updateProperty,
   deleteCategory,
   addItem,
   deleteItem,

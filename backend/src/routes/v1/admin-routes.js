@@ -6,7 +6,7 @@ router.post("/addProperty",adminController.addProperty);
 router.delete("/deleteProperty/:id",adminController.deleteProperty);
 
 router.post("/addItem",adminController.addItem);
-router.patch("/updatePropertyName/:id",adminController.updatePropertyName)
+router.patch("/updateProperty/:id",adminController.updateProperty)
 router.delete("/deleteItem",adminController.deleteItem);
 router.patch("/toggleAvl",adminController.toggleAvl);
 router.post("/addCat",adminController.addCategory);
