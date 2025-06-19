@@ -1,7 +1,9 @@
 const express = require('express');
 const {adminController} = require('../../controllers');
+const adminAuth = require('../../middlewares/adminMiddleWare');
 const router = express.Router();
 
+router.use(adminAuth)
 router.post("/addProperty",adminController.addProperty);
 router.delete("/deleteProperty/:id",adminController.deleteProperty);
 

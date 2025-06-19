@@ -5,46 +5,34 @@ const config = require("../config");
 
 const adminAuth = async (req, res, next) => {
   try {
-    // Get token from cookies
-    const token = req.cookies?.token;
-    console.log("Token:", token);
+    const { token } = req.cookies;
+    console.log(token);
 
     if (!token) {
-      return res.status(StatusCodes.UNAUTHORIZED).json({ message: "Token is missing" });
+      return res.status(401).json("token is invalid");
     }
-
-    // Verify token
-    const decodedToken = jwt.verify(token, config.ServerConfig.JWTSecret);
-    const { _id } = decodedToken;
-    console.log("Decoded _id:", _id);
-
-    if (!_id) {
-      return res.status(StatusCodes.UNAUTHORIZED).json({ message: "Invalid token payload" });
+    const tokenSecret = config.ServerConfig.JWTSecret;
+    console.log(tokenSecret);
+    const decodedToken = jwt.verify(token, tokenSecret);
+    const { id } = decodedToken;
+    if (!id) {
+      return res.status(401).json("id not found");
     }
-
-    // Find user by ID
-    const user = await User.findById(_id);
-    console.log("User:", user);
-
+    const user = await User.findById(id);
+    console.log(user);
     if (!user) {
-      return res.status(StatusCodes.UNAUTHORIZED).json({ message: "User not found" });
+      return res.status(401).josn("user not found");
     }
-
-    if (user.role !== "admin") {
-      return res.status(StatusCodes.FORBIDDEN).json({ message: "Access denied: Admins only" });
+    if (user.role != "admin") {
+      return res.status(401).json("access denied only admin");
     }
-
-    // Attach user to request for further use if needed
-    req.user = user;
 
     next();
   } catch (error) {
-    console.error("Admin Auth Error:", error);
-    return res.status(StatusCodes.INTERNAL_SERVER_ERROR).json({
-      message: "Error in adminAuth middleware",
-      error: error.message
+    res.status(StatusCodes.INTERNAL_SERVER_ERROR).json({
+      message: "Error in adminMiddleware",
+      error: error.message,
     });
   }
 };
-
 module.exports = adminAuth;
