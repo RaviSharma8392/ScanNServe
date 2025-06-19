@@ -8,9 +8,9 @@ name: {
     maxLength: 50
 },
 admin:{
-    type: Mongoose.Schema.Types.ObjectId,
+    type: mongoose.Schema.Types.ObjectId,
     ref: 'User'
-},
+  },
 address: {
     type: String,
     required: [true,'Property name is required'],
