@@ -17,7 +17,7 @@ return {
         const response = await model.findByIdAndDelete(id);
         return doc;
     },
-    update: async function(data){
+    update: async function(id,data){
         const updatedDoc = await model.findByIdAndUpdate(id,data,{new: true});
         return doc;
     },

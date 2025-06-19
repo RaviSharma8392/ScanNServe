@@ -13,11 +13,13 @@ const signInService = async (data) => {
 
     const isMatch = bcrypt.compareSync(password, user.password);
     if (!isMatch) throw new Error("You entered an incorrect password");
+          
+
     return {
       username: user.name,
       email: user.email,
       _id: user._id,
-      token: createJWT({ id: user._id }),
+      token: await createJWT({ id: user._id }),
     };
   } catch (err) {
     console.log("SignIn Service Error", err);

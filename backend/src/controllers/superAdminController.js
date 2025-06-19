@@ -6,9 +6,9 @@ const createAdmin = async (req, res) => {
     const user = await signUpService(data);
     return res
       .status(StatusCodes.CREATED)
-      .json({ user: user, message: "User created successfully!" });
+      .json({ user, message: "User created successfully!" });
   } catch (error) {
-    console.log("User controller error", error);
+    console.log("Super-Admin controller error", error);
     res.status(StatusCodes.INTERNAL_SERVER_ERROR).json({ error });
   }
 };
